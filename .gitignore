@@ -1,0 +1,16 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 临时与日志文件
+*.tmp
+*.log
+
+# Office 锁定文件
+~$*
