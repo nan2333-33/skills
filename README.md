@@ -1,6 +1,6 @@
 # Skills
 
-个人沉淀的 AI Agent 技能（Skill）合集，采用 `SKILL.md` 规范，适用于 Kimi Work 等支持该规范的环境。
+个人沉淀的 AI Agent 技能（Skill）合集，采用 `SKILL.md` 规范，适用于 Kimi Work 、Workbuddy等支持该规范的环境。
 
 ## 技能列表
 
