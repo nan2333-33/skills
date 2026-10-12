@@ -1,5 +1,5 @@
 ---
-name: pptx-to-pdf-windows
+name: pptx-to-pdf-windows without libreoffice
 description: Windows 上用本机 PowerPoint COM 把 PPTX 转为 PDF 并压缩体积。当用户要求 PPT 转 PDF、转格式、压缩 PPT 导出时使用。包含 PrintRange=None、InsertFromFile 重建等关键坑位。
 agent_created: true
 ---
